@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Heroes: Phone Settings & Cyber Safety",
+  "description": "An interactive phone settings simulation for pupils to master cloud computing, cyber safety, password security, and earn their Cloud Hero certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
